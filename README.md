@@ -1,2 +1,2 @@
 # delta
-this repo is for delta course
+This repo is for the delta course
